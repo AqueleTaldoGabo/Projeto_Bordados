@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.esquerda{
+    padding: 10px;
+    padding-left: 2.5%;
+}
+.direita{
+    padding: 5px;
+    padding-right: 5%;
+}
+.meio{
+    text-align: center;
+    align-content: center;
+}
+.separar{
+    padding: 20px;
+}
+.margin{
+    margin-top: 10px;
+}
+#sobremimcont{
+    padding-top: 20px;
+}
+footer a{
+    text-decoration: none;
+    color: #FFF;
+    padding: 0px;
+    width: 15px;
+    font-size: small;
+}
+#imagemlogo{
+    width: 60%;
+}
+#maxsize{
+    width: 100%;
+    margin: 0 auto;
+}
+.imagecarousel{
+    width: 400px;
+}
+.rosa{
+    background-color: #E8B0D2;
+}
+.pequeno{
+    font-size: small;
+}
+.fa-facebook {
+    background: #FFF;
+    color: #000;
+}
+.fa-instagram {
+    background: #FFF;
+    color: #000;
+  }
+#tam75{
+    width: 75%;
+}
+.imagetoalha{
+    padding-bottom: 10px;
+    width: 300px;
+    max-width: 75%;
+}
+#toalha{
+    padding-top: 29px;
+}
